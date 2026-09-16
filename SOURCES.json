@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Grumpy Cat",
+    "source": "https://imgflip.com/meme/Grumpy-Cat",
+    "image": "https://i.imgflip.com/8p0a.jpg",
+    "id": "1",
+    "local": "images/cat-1.jpg",
+    "alt": "소파에서 뾰로통한 얼굴로 카메라를 보는 그럼피 캣",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "I Should Buy A Boat Cat",
+    "source": "https://imgflip.com/meme/I-Should-Buy-A-Boat-Cat",
+    "image": "https://i.imgflip.com/tau4.jpg",
+    "id": "2",
+    "local": "images/cat-2.jpg",
+    "alt": "양복을 입고 식탁에서 신문과 커피 앞에 앉아 있는 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Scared Cat",
+    "source": "https://imgflip.com/meme/Scared-Cat",
+    "image": "https://i.imgflip.com/2hgfw.jpg",
+    "id": "3",
+    "local": "images/cat-3.jpg",
+    "alt": "눈을 동그랗게 뜨고 아래를 내려다보는 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Smudge the cat",
+    "source": "https://imgflip.com/meme/197052476/Smudge-the-cat",
+    "image": "https://i.imgflip.com/39binw.jpg",
+    "id": "4",
+    "local": "images/cat-4.jpg",
+    "alt": "식탁 위 샐러드 앞에 앉은 흰 고양이와 항의하는 여성의 밈",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Smiling Cat",
+    "source": "https://imgflip.com/meme/Smiling-Cat",
+    "image": "https://i.imgflip.com/amuvy.jpg",
+    "id": "5",
+    "local": "images/cat-5.jpg",
+    "alt": "집 안에서 입을 꾹 다물고 동그란 눈으로 바라보는 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Ceiling Cat",
+    "source": "https://imgflip.com/meme/Ceiling-Cat",
+    "image": "https://i.imgflip.com/22vtk.jpg",
+    "id": "7",
+    "local": "images/cat-7.jpg",
+    "alt": "천장의 네모난 구멍으로 얼굴을 내밀고 내려다보는 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "I can has cheezburger cat",
+    "source": "https://imgflip.com/meme/33211581/I-can-has-cheezburger-cat",
+    "image": "https://i.imgflip.com/jru7x.jpg",
+    "id": "8",
+    "local": "images/cat-8.jpg",
+    "alt": "생활감 있는 패턴 배경 앞에서 입을 벌린 회색 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Excited Cat",
+    "source": "https://imgflip.com/meme/Excited-Cat",
+    "image": "https://i.imgflip.com/72k5g.jpg",
+    "id": "10",
+    "local": "images/cat-10.jpg",
+    "alt": "입을 크게 벌리고 신난 표정을 짓는 아기 치즈 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "name": "Long day factory",
+    "source": "https://imgflip.com/meme/626639141/Long-day-factory",
+    "image": "https://i.imgflip.com/ad31ut.jpg",
+    "id": "11",
+    "local": "images/cat-11.jpg",
+    "alt": "공장 배경 밈에 넥타이를 매고 앉아 있는 줄무늬 고양이",
+    "hasText": false,
+    "textDensity": "none"
+  },
+  {
+    "id": "text-23ziiw",
+    "name": "Grumpy Cat Monday",
+    "alt": "침대에 누운 그럼피 캣 위아래에 월요일 등교에 관한 영어 문구가 있는 짤",
+    "hasText": true,
+    "source": "https://imgflip.com/i/23ziiw",
+    "image": "https://i.imgflip.com/23ziiw.jpg",
+    "local": "images/text-23ziiw.jpg",
+    "textDensity": "dense"
+  },
+  {
+    "id": "text-709u3c",
+    "name": "Monday cat",
+    "alt": "의자에 얼굴을 파묻은 주황 고양이와 월요일의 나라는 영어 문구",
+    "hasText": true,
+    "source": "https://imgflip.com/i/709u3c",
+    "image": "https://i.imgflip.com/709u3c.jpg",
+    "local": "images/text-709u3c.jpg",
+    "textDensity": "short"
+  },
+  {
+    "id": "text-583rjg",
+    "name": "Monday black cat",
+    "alt": "소파에 뒤집혀 누운 검은 고양이와 월요일에 관한 영어 문구",
+    "hasText": true,
+    "source": "https://imgflip.com/i/583rjg",
+    "image": "https://i.imgflip.com/583rjg.jpg",
+    "local": "images/text-583rjg.jpg",
+    "textDensity": "short"
+  },
+  {
+    "id": "text-b19tpu",
+    "name": "Orange cat elevator adventure",
+    "alt": "엘리베이터를 돌아다니는 고양이에 관한 채팅과 모험이 필요하다는 영어 자막이 있는 고양이 사진",
+    "hasText": true,
+    "source": "https://imgflip.com/i/b19tpu",
+    "image": "https://i.imgflip.com/b19tpu.jpg",
+    "local": "images/text-b19tpu.jpg",
+    "textDensity": "dense"
+  },
+  {
+    "id": "text-b194ug",
+    "name": "Take a seat cat",
+    "alt": "앞발을 모으고 식탁에 앉은 고양이와 가족의 새 아기에 대해 이야기하자는 영어 문구",
+    "hasText": true,
+    "source": "https://imgflip.com/i/b194ug",
+    "image": "https://i.imgflip.com/b194ug.jpg",
+    "local": "images/text-b194ug.jpg",
+    "textDensity": "dense"
+  },
+  {
+    "id": "text-b1ablo",
+    "name": "Masked cat",
+    "alt": "눈 주위에 검은 털이 난 고양이와 가면 뒤의 정체를 묻는 영어 문구",
+    "hasText": true,
+    "source": "https://imgflip.com/i/b1ablo",
+    "image": "https://i.imgflip.com/b1ablo.jpg",
+    "local": "images/text-b1ablo.jpg",
+    "textDensity": "dense"
+  }
+]
